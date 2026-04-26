@@ -1,0 +1,16 @@
+{
+  "version": "2.6.0",
+  "summary": {
+    "title": "Lab3_AI_Chatbot_DefenseModel",
+    "owner": "KrymusValeriyValentynovych",
+    "description": "Модель захисту AI-чатбота для служби\nпідтримки. Система складається з 6\nкомпонентів: Користувач, Веб-сайт, Веб-сервер,\nБаза документів, AI-модель, База логів.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
